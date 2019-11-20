@@ -1,0 +1,23 @@
+{
+  "name": "restful-todo-list-api",
+  "version": "1.0.0",
+  "description": "RESTful TODO list API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoak/RESTful-TODO-List-API.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "xoak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoak/RESTful-TODO-List-API/issues"
+  },
+  "homepage": "https://github.com/xoak/RESTful-TODO-List-API#readme"
+}
